@@ -1,0 +1,23 @@
+.nav-text{
+    /* text-align: center; */
+    margin: 0rem 1rem;
+    padding: 0 2rem 0  0rem;
+    font-weight: bold;
+    /* border: 1px solid; */
+    font-size: 20px;
+}
+
+.card{
+    margin:10%;
+    margin-top:3%;
+    border: 0;
+}
+
+.round{
+    border-radius:15%;
+}
+
+/* .dropdown-menu{
+    position: absolute;
+    z-index: 1000;
+} */
